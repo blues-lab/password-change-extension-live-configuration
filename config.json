@@ -1,7 +1,7 @@
 {
     "motd_url": "https://surveys.cs.berkeley.edu/security_assistant/motd.html",
     "event_database_url": "https://password-nudge-study-staging.firebaseapp.com/save",
-    "sentry_dsn_url": "",
+    "sentry_dsn_url": "https://aaa7126eb769468aaa4d1c2f55fa1113@o430053.ingest.sentry.io/5377870",
     "google_breach_api_url": "https://password-api-prod.firebaseapp.com/getHashes",
     "password_change_urls_map_url": "https://raw.githubusercontent.com/blues-lab/password-change-redirects/master/password_change_pages.json",
     "password_advice_url": "https://ssd.eff.org/en/module/creating-strong-passwords",
