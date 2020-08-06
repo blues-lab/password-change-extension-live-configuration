@@ -6,9 +6,9 @@
     "password_change_urls_map_url": "https://raw.githubusercontent.com/blues-lab/password-change-redirects/master/password_change_pages.json",
     "password_advice_url": "https://ssd.eff.org/en/module/creating-strong-passwords",
     "study_completed_url": "https://surveys.cs.berkeley.edu/security_assistant/goodbye",
-    "study_duration_min": 20160,
-    "heartbeat_period_min": 60,
-    "notification_reminder_delay_min": 1440,
+    "study_duration_min": 60,
+    "heartbeat_period_min": 5,
+    "notification_reminder_delay_min": 5,
     "possible_typo_wait_period_ms": 30000,
     "does_user_see_error_text_content_script_delay_ms": 5000,
     "form_submission_request_timeout_ms": 30000
