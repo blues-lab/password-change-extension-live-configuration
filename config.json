@@ -9,7 +9,7 @@
     "study_duration_min": 60,
     "heartbeat_period_min": 5,
     "notification_reminder_delay_min": 5,
-    "possible_typo_wait_period_ms": 30000,
+    "possible_typo_wait_period_ms": 15000,
     "does_user_see_error_text_content_script_delay_ms": 5000,
     "form_submission_request_timeout_ms": 30000
 }
